@@ -1,3 +1,5 @@
+[![Codeship Status for diligasi/sample-ruby-validator](https://app.codeship.com/projects/4361f594-3409-4d0b-8f46-46de25816161/status?branch=main)](https://app.codeship.com/projects/459188)
+
 # Sample Ruby Validator
 This repository is for study and entertainment purposes only.
 
